@@ -2,7 +2,7 @@
 
 > *A macro pad for everyday work!*
 
-<img width="885" height="486" alt="Screenshot 2026-03-28 055700" src="https://github.com/user-attachments/assets/9eee3bd9-731c-4feb-a5f2-1e661e088c8d" />
+![TheDeskThingy](https://github.com/user-attachments/assets/c885f1e0-8d25-40a1-baa4-4dbc79c152dd)
 
 
 ## 🌟 Features
@@ -47,4 +47,4 @@ For this project to work, you need to use the DIH-Projects library or check the 
 
 Now in the 3D folder you will find the 3D model built for this project. Please note that the model moght need some ajustement if you're using other parts then the one in the South African list so pleae fell free to edit it!
 
-
+<img width="885" height="486" alt="Screenshot 2026-03-28 055700" src="https://github.com/user-attachments/assets/9eee3bd9-731c-4feb-a5f2-1e661e088c8d" />
