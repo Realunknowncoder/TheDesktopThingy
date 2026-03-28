@@ -31,9 +31,7 @@ Note that there is no PCB currently!
 
 For the pins:
 For the LED: 
-- S to 5 pin
-- - + to VCC
-- - to GND
+S to 5 pin - + to VCC - - to GND
 For Button 1: - D to 2 pin - + to VCC - - to GND
 For Button 2: - D to 3 pin - + to VCC - - to GND
 For Button 3: - D to 4 pin - + to VCC - - to GND
