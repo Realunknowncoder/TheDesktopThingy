@@ -2,6 +2,8 @@
 
 > *A macro pad for everyday work!*
 
+<img width="885" height="486" alt="Screenshot 2026-03-28 055700" src="https://github.com/user-attachments/assets/9eee3bd9-731c-4feb-a5f2-1e661e088c8d" />
+
 
 ## 🌟 Features
 
@@ -24,6 +26,8 @@ Note that for the WorldWide some links doesn't work but you can easily find it i
 
 For the scheamtics, it's pretty easy and you just have to follow the diagram in the schematics file!
 Note that there is no PCB currently!
+
+<img width="757" height="509" alt="Screenshot 2026-03-28 012146" src="https://github.com/user-attachments/assets/a5540bed-9c7a-4d30-87da-b47ec6d7be3b" />
 
 For the pins:
 For the LED: 
