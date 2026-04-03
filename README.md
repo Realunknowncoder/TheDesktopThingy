@@ -19,26 +19,15 @@ So I made TheDesktopThingy not just to solve my light problem but also as a shor
 
 ## ⬇️ Components:
 
-For the components needed you can find them in the component list, the prices are in rand but the final one is in dollars!
-There is also another list called BOM for the pcb version! It contains listings from Aliexpress so it's WorldWide!
-Note that for the WorldWide in the pdf file some links doesn't work but you can easily find it if you searched on AliExpress! Sorry for the inconvenient!
+For the components needed you can find them in the component list! It's in dollars, also note that some listings in the BOM list only provide components in bulk, so you might want to research more if you want to only have the exact number of components! Also note that the list was made to work with the 3D Model and the PCB, so if you change the list then note that you might edit those aspects of the project!
 
 
-## ⬇️ Schematics:
+## ⬇️ PCB:
 
-For the scheamtics, it's pretty easy and you just have to follow the diagram in the schematics file!
-Note that there is no PCB currently!
+You can find all the files needed in the PCB folder! Note that if you choose other components you might need to edit the PCB to make it fit!
 
-<img width="757" height="509" alt="Screenshot 2026-03-28 012146" src="https://github.com/user-attachments/assets/a5540bed-9c7a-4d30-87da-b47ec6d7be3b" />
 
-For the pins:
-For the LED: 
-S to 5 pin - + to VCC - - to GND
-For Button 1: - D to 2 pin - + to VCC - - to GND
-For Button 2: - D to 3 pin - + to VCC - - to GND
-For Button 3: - D to 4 pin - + to VCC - - to GND
-For Slider 1: - S to A0 - VCC to VCC - GND to GND
-For Slider 2: - S to A1 - VCC to VCC - GND to GND
+<img width="731" height="524" alt="Screenshot 2026-04-02 234734" src="https://github.com/user-attachments/assets/09b16aa5-613e-4bb8-a376-6d6d25560bc2" />
 
 
 ## ⬇️ Code:
@@ -47,6 +36,10 @@ For this project to work, you need to use the DIH-Projects library or check the 
 
 ## ⬇️ 3D Model:
 
-Now in the 3D folder you will find the 3D model built for this project. Please note that the model moght need some ajustement if you're using other parts then the one in the South African list so pleae fell free to edit it!
+Now in the 3D folder you will find the 3D model built for this project. Please note that the model is designed for the PCB and might need some ajustement if you used a different PCB or components, so feel free to edit it!
 
-<img width="885" height="486" alt="Screenshot 2026-03-28 055700" src="https://github.com/user-attachments/assets/9eee3bd9-731c-4feb-a5f2-1e661e088c8d" />
+<img width="1033" height="375" alt="Screenshot 2026-04-03 020926" src="https://github.com/user-attachments/assets/6f00710a-160e-4c7e-8ba7-6a27872be8fc" />
+<img width="786" height="520" alt="Screenshot 2026-04-03 020901" src="https://github.com/user-attachments/assets/b6d03b83-93f3-4691-a7e0-c7d08aa1a9e3" />
+
+
+
