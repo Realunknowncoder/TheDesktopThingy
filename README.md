@@ -29,6 +29,9 @@ For the components needed you can find them in the component list! It's in dolla
 | 2 | Slide Potentiometer 10K Linear Module | $8.29 | [Click here](https://www.aliexpress.com/item/1005008100129288.html) | - |
 | 3 | Tactile Push Button Switch | $0.39 | [Click here](https://www.aliexpress.com/item/1005009862866989.html) | You only need three, but the listing sells it in bulk |
 | 1 | 1W 5V Warm White 3000K Led  | $2.51 | [Click here](https://www.aliexpress.com/item/1005008734207156.html) | - |
+| 3 | 10k resistor | $0.99 | [Click here](https://www.aliexpress.com/item/1005007643210127.html) | You only need three, but the listing sells it in bulk |
+| 1 | PCB | 
+$7.70 | - | - |
 
 ## ⬇️ PCB:
 
