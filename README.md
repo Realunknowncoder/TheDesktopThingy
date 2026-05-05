@@ -31,6 +31,12 @@ You can find all the files needed in the PCB folder! Note that if you choose oth
 
 <img width="731" height="524" alt="Screenshot 2026-04-02 234734" src="https://github.com/user-attachments/assets/09b16aa5-613e-4bb8-a376-6d6d25560bc2" />
 
+## ⬇️ Wiring:
+
+Don't want a PCB or want to create your own? No problem, here is the wiring for TheDeskThingy:
+
+<img width="721" height="425" alt="Screenshot 2026-05-05 232346" src="https://github.com/user-attachments/assets/9e427858-3479-451f-ab95-eebf483da01a" />
+
 
 ## ⬇️ Code:
 
