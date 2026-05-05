@@ -23,6 +23,12 @@ So I made TheDesktopThingy not just to solve my light problem but also as a shor
 
 For the components needed you can find them in the component list! It's in dollars, also note that some listings in the BOM list only provide components in bulk, so you might want to research more if you want to only have the exact number of components! Also note that the list was made to work with the 3D Model and the PCB, so if you change the list then note that you might edit those aspects of the project!
 
+| QUANTITY | PRODUCT NAME | PRICE | LINK | NOTE |
+| --- | --- | --- | --- | --- |
+| 1 | Pro Micro ATMEGA32U4 5V/16MHZ module | $2.69 | [Click here](https://www.aliexpress.com/item/32768308647.html) | - |
+| 2 | Slide Potentiometer 10K Linear Module | $8.29 | [Click here](https://www.aliexpress.com/item/1005008100129288.html) | - |
+| 3 | Tactile Push Button Switch | $0.39 | [Click here](https://www.aliexpress.com/item/1005009862866989.html) | You only need three, but the listing sells it in bulk |
+| 1 | 1W 5V Warm White 3000K Led  | $2.51 | [Click here](https://www.aliexpress.com/item/1005008734207156.html) | - |
 
 ## ⬇️ PCB:
 
